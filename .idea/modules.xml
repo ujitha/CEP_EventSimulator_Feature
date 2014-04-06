@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/1.0.1/1.0.1.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/1.0.1/1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.server.feature/1.0.1/1.0.1.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.server.feature/1.0.1/1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.ui.feature/1.0.1/1.0.1.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.ui.feature/1.0.1/1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-simulator-feature.iml" filepath="$PROJECT_DIR$/event-simulator-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/org.wso2.carbon.eventsimulator.feature.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/org.wso2.carbon.eventsimulator.feature.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -27,16 +27,16 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.carbon</groupId>
     <artifactId>event-simulator-feature</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
     <name>WSO2 Carbon - Event Simulator Feature</name>
     <url>http://maven.apache.org</url>
 
 
     <modules>
-        <module>org.wso2.carbon.eventsimulator.feature/1.0.1</module>
-        <module>org.wso2.carbon.eventsimulator.server.feature/1.0.1</module>
-        <module>org.wso2.carbon.eventsimulator.ui.feature/1.0.1</module>
+        <module>org.wso2.carbon.event.simulator.feature/1.0.0</module>
+        <module>org.wso2.carbon.event.simulator.server.feature/1.0.0</module>
+        <module>org.wso2.carbon.event.simulator.ui.feature/1.0.0</module>
     </modules>
 
 

@@ -94,7 +94,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/1.0.1/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="840" selection-end="840" vertical-scroll-proportion="0.1322314" vertical-offset="236" max-vertical-offset="1440">
+            <state line="27" column="1" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.83677685" vertical-offset="0" max-vertical-offset="1440">
               <folding />
             </state>
           </provider>
@@ -494,22 +494,22 @@
       <workItem from="1396716541421" duration="154000" />
       <workItem from="1396716719221" duration="1460000" />
       <workItem from="1396756474889" duration="14053000" />
-      <workItem from="1396846484844" duration="4621000" />
+      <workItem from="1396846484844" duration="5753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20642000" />
+    <option name="totallyTimeSpent" value="21774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14992025" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14992025" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -633,7 +633,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/1.0.1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="840" selection-end="840" vertical-scroll-proportion="0.1322314" vertical-offset="236" max-vertical-offset="1440">
+        <state line="27" column="1" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.83677685" vertical-offset="0" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>

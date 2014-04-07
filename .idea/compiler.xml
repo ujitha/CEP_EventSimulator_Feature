@@ -28,6 +28,8 @@
     <bytecodeTargetLevel>
       <module name="1.0.1" target="1.6" />
       <module name="event-simulator-feature" target="1.6" />
+      <module name="org.wso2.carbon.eventsimulator.server.feature" target="1.6" />
+      <module name="org.wso2.carbon.eventsimulator.ui.feature" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

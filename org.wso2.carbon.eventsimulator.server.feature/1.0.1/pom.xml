@@ -110,9 +110,9 @@
                                 <bundleDef>
                                     org.wso2.carbon:org.wso2.carbon.eventsimulator.admin:1.0.0
                                 </bundleDef>
-                                <!--<bundleDef>-->
-                                    <!--org.wso2.carbon:org.wso2.carbon.event.processor.api:1.0.1-->
-                                <!--</bundleDef>-->
+                                <bundleDef>
+                                    org.wso2.carbon:org.wso2.carbon.event.stream.manager.core:1.0.1
+                                </bundleDef>
                             </bundles>
                             <importFeatures>
                                 <importFeatureDef>org.wso2.carbon.core.server:${carbon.version}

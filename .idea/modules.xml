@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.ui.feature/1.0.1/1.0.1.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.ui.feature/1.0.1/1.0.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-simulator-feature.iml" filepath="$PROJECT_DIR$/event-simulator-feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/org.wso2.carbon.eventsimulator.feature.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.feature/org.wso2.carbon.eventsimulator.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.server.feature/1.0.1/org.wso2.carbon.eventsimulator.server.feature.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.server.feature/1.0.1/org.wso2.carbon.eventsimulator.server.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.wso2.carbon.eventsimulator.ui.feature/1.0.1/org.wso2.carbon.eventsimulator.ui.feature.iml" filepath="$PROJECT_DIR$/org.wso2.carbon.eventsimulator.ui.feature/1.0.1/org.wso2.carbon.eventsimulator.ui.feature.iml" />
     </modules>
   </component>
 </project>
